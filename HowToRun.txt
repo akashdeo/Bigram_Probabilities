@@ -1,0 +1,14 @@
+Language Used: JAVA
+
+Compilation: javac Bigrams.java
+Run: java Bigrams.java InputFile
+
+The program will take the input file as argument.
+
+Step 1: Enter the sentence.
+Step 2: There are 3 options to select for the sentence which is entered
+        1. No-smoothing 2. One-Smoothing 3.Good Turing Discounting
+		 
+Step 3: For the selected Option, Bigram counts table and probability table will be shown.
+As well as the probability of the first bigram , second bigram and so on till n-1 bigrams will be shown. 
+Also the overall sentence probability will be shown. 		 
